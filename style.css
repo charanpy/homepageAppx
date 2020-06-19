@@ -214,6 +214,8 @@ a{
     justify-content: center;
     color:#212121;
 }
+.none{
+display:none;}
 
 .input-search input:focus + i{
     color:rgb(66, 133, 244);
